@@ -4,17 +4,17 @@
 Se desarrolla aplicaciones multiplataforma para la empresa x. Requiere del control de pedidos y seguimiento de pagos 
 ***
 
-##OBJETIVO
+# #OBJETIVO
 
 Desarrollar una aplicacion multiplataforma de control de pedidos, para la empresa x, en un periodo de meses, utilizando SCRUM y las tecnologias: HTML, CSS, JS, SQL
 
-##EQUIPO DE DESARROLLO
+## EQUIPO DE DESARROLLO
 * SM
 * Desarrollador1
 * Desarrollador2
 * Desarrollador3
 
-##FUNCIONALIDADES
+## FUNCIONALIDADES
 - {} CRUD PEDIDOS
 - {} CRUD PAGOS
 - {} CRUD PRODUCTOS
